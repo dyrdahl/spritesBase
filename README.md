@@ -1,2 +1,2 @@
-# spritesBase
-cs485
+Shane Dyrdahl
+Sprites Demo
